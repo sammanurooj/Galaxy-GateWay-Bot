@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^0.0.34",
+    "@hookform/resolvers": "^3.6.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@t3-oss/env-nextjs": "^0.10.1",
+    "ai": "^3.2.15",
+    "binance": "^2.11.5",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^3.6.0",
+    "lucide-react": "^0.399.0",
+    "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "react-hook-form": "^7.52.0",
+    "react-intersection-observer": "^9.10.3",
+    "react-textarea-autosize": "^8.5.3",
+    "tailwind-merge": "^2.3.0",
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.23.1"
   },
   "devDependencies": {
     "typescript": "^5",
